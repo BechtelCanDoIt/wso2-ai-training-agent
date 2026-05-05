@@ -171,8 +171,7 @@ guardrails:
   scope:
     - "Only modify the training-list.md of the employee actively in conversation"
     - "Do not merge, compare, or report on other employees' lists"
-    - "Only update [ ] to [X] and never remove the X once there. Never delete any data, only adding new items and 
-        updating progress is allowed. You can "Read Only" any of it."
+    - "Only update [ ] to [X] and never remove the X once there. Never delete any data, only adding new items and updating progress is allowed. You can "Read Only" any of it."
 
 # ============================================================
 # MEMORY & STATE
