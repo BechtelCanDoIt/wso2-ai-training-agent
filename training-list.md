@@ -56,9 +56,7 @@ Copy/Past starters
 - [ ] 📝 [Why Does AI Have to Be Held to a Higher Bar Than Humans (and Why It Matters)?](https://wso2.com/library/blogs/why-does-ai-have-to-be-held-to-a-higher-bar-than-humans/) - *blog* - ~5 min
 - [ ] 📝 [Vertical AI: Why Industry-Specific AI Matters](https://wso2.com/library/blogs/vertical-ai-why-industry-specific-ai-matters/) - *blog* - ~5 min
 - [ ] 📝 [Becoming a top 1% Claude Code user: the complete playbook no one else is sharing](https://medium.com/towards-artificial-intelligence/becoming-a-top-1-claude-code-user-the-complete-playbook-no-one-else-is-sharing-96057be1468e) - *blog* - ~16 min
-- [ ] 📝 []() - *blog* - ~5 min
-- [ ] 📝 []() - *blog* - ~5 min
-- [ ] 📝 []() - *blog* - ~5 min
+
 
 
 
@@ -95,8 +93,7 @@ Copy/Past starters
 - [ ] 🏫 [WSO2 MCP AI Agent Playground](https://ai-playground.choreoapps.dev/) - *External* - ~10 min
 - [ ] 📝 [Best LiteLLM Alternatives in 2026: Secure AI Gateways](https://wso2.com/library/blogs/litellm-alternatives/) - *blog* - ~5 min
 - [ ] 📝 [Introducing Agent-Flavored Markdown (AFM): No Code, Portable AI Agents](https://wso2.com/library/blogs/introducing-agent-flavored-markdown/) - *blog* - ~5 min
-- [ ] 📝 []() - *blog* - ~5 min
-- [ ] 📝 []() - *blog* - ~5 min
+
 
 ---
 
@@ -175,8 +172,8 @@ Copy/Past starters
 > Conferences, external courses, and third-party certifications.
 <!-- Add items here as they are attended or enrolled -->
 
-- [ ] 🏫 *[Add external training here]* — *External* — 
 - [ ] 🎥 [Mastering Claude Code in 15 Minutes](https://substack.com/@linas/note/c-248893990?r=51pgq) - 15 min
+- [ ] - [ ] 🏫 *[Add external training here]* — *External* — 
 
 ---
 
