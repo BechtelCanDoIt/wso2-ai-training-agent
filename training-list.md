@@ -58,21 +58,24 @@ Copy/Past starters
 - [ ] 📝 [Becoming a top 1% Claude Code user: the complete playbook no one else is sharing](https://medium.com/towards-artificial-intelligence/becoming-a-top-1-claude-code-user-the-complete-playbook-no-one-else-is-sharing-96057be1468e) - *blog* - ~16 min
 
 
-
-
 ## Section 20 · WSO2 AI/Agentic Foundations
 > Core WSO2 AI Product concepts every WSO2 CS team member should know before going deeper.
 
 - [ ] 📝 [WSO2 Blog: Becoming an Agentic Enterprise with WSO2](https://wso2.com/library/blogs/agentic-enterprise-with-wso2/) — *Blog Post* — ~5 min
 - [ ] 📝 [Scott Bechtel Blog: WSO2 AI Capabilities For Enterprise Architects — v202511](https://medium.com/javaguides/wso2-ai-capabilities-for-enterprise-architects-v202511-d5c8a34cc442) - *Blog Post* - ~6 min
+- [ ] 📝 [Transforming Customer Support with an AI-Powered Troubleshooting Agent](https://wso2.com/library/blogs/transforming-customer-support-ai-powered-troubleshooting-agent/) - *Case Study* - ~ 5 min
+- [ ] 📝 [How a Global Entertainment Giant Built a Multi-Agent AI Assistant for Employee Support](https://wso2.com/library/blogs/how-a-global-entertainment-giant-built-multi-agent-ai-assistant/) - *Case Study* - ~ 5 min
 - [ ] 📝 [The Agent is Inside the Perimeter: A Case for Enterprise-Wide AI Agent Governance](https://wso2.com/library/blogs/enterprise-wide-ai-agent-governance/) - *Blog Post* - ~5 min
 - [ ] 📝 [How We Gave Life to an AI Agent with the Unitree Go2 Robot](https://wso2.com/library/blogs/how-we-gave-life-to-an-ai-agent-with-unitree-go2-robot/) - *blog* - ~5 min
 
 
 
 
-### Section 20 ·  2025 WSO2 News
+### Section 20 · WSO2 News
+> PR Announcements
 - [ ] 📣 [WSO2 Launches Agent Manager to Bring Identity, Governance and Scale to Enterprise AI Agents](https://wso2.com/about/news/wso2-launches-agent-manager/) - *Announcement* - ~ 2 min
+- [ ] 📣 [WSO2 Names a New CMO to Drive Global Growth of its Agentic Enterprise Platform](https://wso2.com/about/news/wso2-names-new-cmo-to-drive-global-growth-agentic-enterprise-platform/) — *Announcement* — ~2 min
+- [ ] 📣 [WSO2 Launches API Platform to Make Enterprise APIs Agent-Ready Without Vendor Lock-In](https://wso2.com/about/news/wso2-launches-api-platform/) - *Announcement* - ~2 min
 - [ ] 📣 [WSO2 Debuts AI-Driven Automation for Identity and Access Management](https://wso2.com/about/news/wso2-debuts-ai-driven-automation-for-identity-and-access-management/) - *Announcement* - ~2 min
 - [ ] 📣 [WSO2’s Choreo AI-Native IDP, Now Offered as SaaS and Open-Source Software, Brings New Productivity Gains to Platform and Software Engineering Teams](https://wso2.com/about/news/wso2-choreo-ai-native-idp-now-offered-as-saas-and-open-source-software/) - *Announcement* - ~2 min
 - [ ] 📣 [New WSO2 API Management Offerings Harness AI for Greater Productivity and Governance](https://wso2.com/about/news/new-wso2-api-management-offerings-harness-ai-for-greater-productivity-and-governance/) - *Announcement* - ~2 min 
@@ -80,10 +83,6 @@ Copy/Past starters
 - [ ] 📣 [From Experiment to Execution: WSO2 Brings AI into the Heart of Modern Software Development](https://wso2.com/about/news/from-experiment-to-execution-wso2-brings-ai-into-the-heart-of-modern-software-development/) - *Announcement* - ~2 min
 - [ ] 📣 [WSO2 Expands AI and B2B Capabilities Across Identity and Access Managment Product Family](https://wso2.com/about/news/wso2-expands-ai-and-b2b-capabilities-across-iam-product-family/) - *Announcement* - ~2 min
 - [ ] 📣 [https://wso2.com/about/news/new-wso2-api-management-offerings-harness-ai-for-greater-productivity-and-governance/](https://wso2.com/about/news/new-wso2-api-management-offerings-harness-ai-for-greater-productivity-and-governance/) - *Announcement* - ~2 min
-
-### Section 20 ·  2026 WSO2 News
-- [ ] 📣 [WSO2 Names a New CMO to Drive Global Growth of its Agentic Enterprise Platform](https://wso2.com/about/news/wso2-names-new-cmo-to-drive-global-growth-agentic-enterprise-platform/) — *Announcement* — ~2 min
-- [ ] 📣 [WSO2 Launches API Platform to Make Enterprise APIs Agent-Ready Without Vendor Lock-In](https://wso2.com/about/news/wso2-launches-api-platform/) - *Announcement* - ~2 min
 
 ---
 
@@ -114,6 +113,11 @@ Copy/Past starters
 ## Section 23 · WSO2 Integration Platform
 
 - [ ] 📢 [WSO2 Integration Platform](https://wso2.com/integration-platform) - *Marketing* - ~5 min
+- [ ] 🎓 [Integration Platform - Ballerina](https://training.wso2.com/plus/catalog/learning-paths/4) - *Docs* - self paced course
+- [ ] 🎓 [WSO2 Integration Fundamentals](https://training.wso2.com/plus/catalog/courses/133) - *Docs* - self paced course
+- [ ] 🎓 [WSO2 Integrator Developer Advanced](https://training.wso2.com/plus/catalog/courses/134) - *Docs* - self paced course
+
+
 - [ ] 📄 [MI Key Concepts](https://mi.docs.wso2.com/en/latest/get-started/key-concepts/) - *Docs* - ~10 min
 - [ ] 📄 [WSO2 Integrator Architecture](https://wso2.com/integrator/) - *Docs* - ~10 min
 - [ ] 📄 [Build Your First AI Integration](https://mi.docs.wso2.com/en/latest/get-started/build-first-ai-integration/) - *Docs* - ~10 min
@@ -173,7 +177,6 @@ Copy/Past starters
 <!-- Add items here as they are attended or enrolled -->
 
 - [ ] 🎥 [Mastering Claude Code in 15 Minutes](https://substack.com/@linas/note/c-248893990?r=51pgq) - 15 min
-- [ ] - [ ] 🏫 *[Add external training here]* — *External* — 
 
 ---
 
