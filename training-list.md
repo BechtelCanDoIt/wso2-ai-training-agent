@@ -8,19 +8,6 @@
 **Last Updated:** <!-- YYYY-MM-DD -->
 
 <!-- 
-material_types:
-  - type: "blog" icon: "📝" label: "Blog Post"
-  - type: "video" icon: "🎥" label: "Video / YouTube"
-  - type: "docs" icon: "📄" label: "Official WSO2 Documentation"
-  - type: "lms" icon: "🎓" label: "LMS Course / Module"
-  - type: "article" icon: "🌐" label: "Web Article"
-  - type: "announcement" icon: "📣" label: "Press / Product Announcement"
-  - type: "competitor" icon: "🔍" label: "Competitor Intelligence"
-  - type: "external" icon: "🏫" label: "External Training / Conference"
-  - type: "adhoc" icon: "➕" label: "Ad-hoc / Other"
--->
-
-<!-- 
 Copy/Past starters
 - [ ] 📝 []() - *blog* - ~5 min
 - [ ] 🎥 []() - *Video* - ~x min
@@ -99,6 +86,7 @@ Copy/Past starters
 ## Section 22 · WSO2 API Platform
 
 - [ ] 📢 [WSO2 API Platform](https://wso2.com/api-platform) - *Marketing* - ~5 min
+- [ ] 🎥 [MCP in Production: Governing Agentic API Consumption | DeveloperWeek](https://www.youtube.com/watch?v=XGgS75lVIAk) - *Video* - ~x min
 - [ ] 📝 [What's New in WSO2 API Manager 4.7](https://wso2.com/library/blogs/wso2-api-manager-4-7-release/) - *blog* - ~5 min
 - [ ] 📄 [WSO2 APIM Architecture](https://apim.docs.wso2.com/en/latest/get-started/apim-architecture/) - *Docs* - ~10 min
 - [ ] 📄 [WSO2 APIM AI Gateway Architecture](https://wso2.com/api-manager/usecases/ai-gateway/) - *Docs* - ~10 min
@@ -107,6 +95,16 @@ Copy/Past starters
 - [ ] 📄 [Key Capabilities of Bijira](https://wso2.com/bijira/docs/introduction/what-is-bijira/#key-capabilities-of-bijira) - *Docs* - ~10 min
 - [ ] 📄 [Bijira Concepts](https://wso2.com/bijira/docs/bijira-concepts/organization/) - *Docs* - ~10 min
 - [ ] 📄 [Bijira MCP Servers](https://wso2.com/bijira/docs/mcp-servers/get-started-with-mcp/#overview) - *Docs* - ~10 min
+
+- [ ] 🎥 [Manage Existing MCP Servers with WSO2 MCP Gateway](https://www.youtube.com/watch?v=NmRlgJA6tys) - *Video* - 5 min. 
+
+- [ ] 🎥 
+Power Up Your AI API Management with WSO2 AI Gateway](https://www.youtube.com/watch?v=hlcf1fCk9Io) - *Video* - 16 min
+- [ ] 🎥 [What You Can Do with the AI Gateway | #WSO2ConAsia2025](https://www.youtube.com/watch?v=LVZHCSNrF10) - *Video* - 30 min
+- [ ] 🎥 [WSO2 AI Gateway: Prompt Management & Semantic Caching](https://www.youtube.com/watch?v=iExLof4aOs0) - *Video* - 8 min
+- [ ] 🎥 [WSO AI Guardrails: PII Masing, Prompt Injection & Safety](
+) - *Video* - 9 min
+- [ ] 🎥 [Stop GenAI Rate Limits: Model Routing & Token Throttling with WSO2 AI Gateway](https://www.youtube.com/watch?v=3kN0hPDQuyg) - *Video* - 10 min
 
 ---
 
@@ -136,6 +134,7 @@ Copy/Past starters
 ## Section 24 · WSO2 Identity Platform
 
 - [ ] 📢 [WSO2 Identity Platform](https://wso2.com/identity-platform) - *Marketing* - ~5 min
+- [ ] 🎥 [Securing AI Agents with Unique Identities | Ayesha Dissanayaka (WSO2) on MCP & IAM](https://www.youtube.com/watch?v=beEqa8_fNUQ)
 - [ ] 📝 [Why Azure AD B2C's Retirement Is a Test of Your Identity Architecture](https://wso2.com/library/blogs/azure-ad-b2c-retirement-identity-architecture/) - *blog* - ~5 min
 - [ ] 📝 [The Path to European Digital Resilience](https://wso2.com/library/blogs/european-digital-resilience-open-source/) - *blog* - ~5 min
 - [ ] 📝 [Why AI Agents Need Their Own Identity: Lessons from 2025 and Resolutions for 2026](https://wso2.com/library/blogs/why-ai-agents-need-their-own-identity-lessons-from-2025-and-resolutions-for-2026/) - *blog* - ~x min
@@ -149,6 +148,7 @@ Copy/Past starters
 - [ ] 📄 [MCP Authorization](https://is.docs.wso2.com/en/latest/guides/agentic-ai/mcp/) - *Docs* - ~10 min
 - [ ] 📄 [Asgardeo MCP Authorization](https://wso2.com/asgardeo/docs/guides/agentic-ai/mcp/) - *Docs* - ~10 min
 - [ ] 📄 [Asgardeo IAM Requirements in the Agentic AI Era](https://wso2.com/asgardeo/docs/guides/agentic-ai/ai-agents/) - *Docs* - ~10 min
+- [ ] 🎥 [Secure Your AI Agents and MCP Servers — New in WSO2 Identity Server 7.2](https://www.youtube.com/watch?v=MiIE4zwmMQM)
  
 
 ---
@@ -177,6 +177,9 @@ Copy/Past starters
 <!-- Add items here as they are attended or enrolled -->
 
 - [ ] 🎥 [Mastering Claude Code in 15 Minutes](https://substack.com/@linas/note/c-248893990?r=51pgq) - 15 min
+- [ ] 🎥 [Claude Certified Architect — Foundations (CCA-F) 2026: Complete Technical Overview](https://www.youtube.com/watch?v=R2xiPTmkL-w) 
+- [ ] 📝 [Claude Certified Architect: The Complete Guide to Passing the CCA Foundations Exam](https://pub.towardsai.net/claude-certified-architect-the-complete-guide-to-passing-the-cca-foundations-exam-9665ce7342a8)
+- [ ] 🏫 [Anthropic Academy](https://www.anthropic.com/learn)
 
 ---
 
@@ -185,6 +188,7 @@ Copy/Past starters
 <!-- Agent appends new items here when you say "Add this to my list" -->
 
 - [ ] 📝 [The 4 Lines Every claude MD Needs](https://levelup.gitconnected.com/the-4-lines-every-claude-md-needs-2717a46866f6)
+- [ ] 🎥 [Andrej Karpathy: From Vibe Coding to Agentic Engineering](https://www.youtube.com/watch?v=96jN2OCOfLs)
 
 ---
 *Tracked by wso2-ai-training-agent · Last agent action: initialized*
