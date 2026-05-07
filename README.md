@@ -17,11 +17,15 @@ A self-directed learning companion for WSO2 employees working through an AI/agen
 ## How to Use It With Claude Code
 
 ### First Time Setup
-`claude .`
-`init` 
+```
+claude .
+init
+``` 
 
 ### Normal Use
-`claude .`
+```
+claude .
+```
 
 Then use natural language triggers:
 
