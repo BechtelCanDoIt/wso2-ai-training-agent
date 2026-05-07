@@ -2,6 +2,10 @@
 
 A self-directed learning companion for WSO2 employees working through an AI/agentic training curriculum. Each employee runs their own instance against their own `training-list.md`.
 
+<div align="center">
+<img src="./images/wso2-training-agent-diagram.png"/>
+</div>
+
 ---
 
 ## What It Does
@@ -39,6 +43,15 @@ Then use natural language triggers:
 | `Sections` | Lists all sections with icons and types |
 | `Add this to my list` | Prompts for title, URL, type, section — then appends it |
 
+#### Menu - What can I do
+![What can I do image](./images/menu.png)
+
+#### Next
+![Get next item image](./images/next.png)
+And the URL for that item auto opens in your browser
+
+#### Progress
+![Progress Tracker image](./images/progress.png)
 ---
 
 ## Status Markers
