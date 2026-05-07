@@ -53,9 +53,9 @@ The `training-list.md` is the source of truth. Sections are numbered by decade:
 | 23 | WSO2 Integration Platform |
 | 24 | WSO2 Identity Platform |
 | 25 | WSO2 Engineering Platform |
-| 40 | Competitive Intelligence |
-| 50 | External Training |
-| 60 | Ad-hoc |
+| 30 | Competitive Intelligence |
+| 40 | External Training |
+| 50 | Ad-hoc |
 
 ---
 
@@ -78,7 +78,6 @@ The `training-list.md` is the source of truth. Sections are numbered by decade:
 ## License
 
 Apache License 2.0 — see `LICENSE.txt`.  
-Training list template is CC0 1.0 Public Domain.
 
 ---
 

@@ -1,6 +1,6 @@
-<!-- CC0 1.0 -->
 # WSO2 AI Training List
 <!-- Agent: wso2-ai-training-agent-v1 | Source of truth for all progress tracking -->
+A curated list of public WSO2 AI/Agentic resources.
 
 **Employee:** <!-- Your name -->  
 **Role:** <!-- Your role -->  
@@ -58,7 +58,7 @@ Copy/Past starters
 
 
 
-### Section 20 · WSO2 News
+### Section 20 · WSO2 AI News
 > PR Announcements
 - [ ] 📣 [WSO2 Launches Agent Manager to Bring Identity, Governance and Scale to Enterprise AI Agents](https://wso2.com/about/news/wso2-launches-agent-manager/) - *Announcement* - ~ 2 min
 - [ ] 📣 [WSO2 Names a New CMO to Drive Global Growth of its Agentic Enterprise Platform](https://wso2.com/about/news/wso2-names-new-cmo-to-drive-global-growth-agentic-enterprise-platform/) — *Announcement* — ~2 min
@@ -76,6 +76,7 @@ Copy/Past starters
 ## Section 21 · WSO2 Agent Platform
 
 - [ ] 📢 [WSO2 Agent Platform](https://wso2.com/agent-platform/) - *Marketing* - ~5 min
+- [ ] 📄 [WSO2 Agent Manager Quick Start Guide](https://wso2.github.io/agent-manager/docs/v0.13.x/getting-started/quick-start/) - *Docs* 
 - [ ] 🏫 [WSO2 MCP AI Agent Playground](https://ai-playground.choreoapps.dev/) - *External* - ~10 min
 - [ ] 📝 [Best LiteLLM Alternatives in 2026: Secure AI Gateways](https://wso2.com/library/blogs/litellm-alternatives/) - *blog* - ~5 min
 - [ ] 📝 [Introducing Agent-Flavored Markdown (AFM): No Code, Portable AI Agents](https://wso2.com/library/blogs/introducing-agent-flavored-markdown/) - *blog* - ~5 min
@@ -99,7 +100,7 @@ Copy/Past starters
 - [ ] 🎥 [Manage Existing MCP Servers with WSO2 MCP Gateway](https://www.youtube.com/watch?v=NmRlgJA6tys) - *Video* - 5 min. 
 
 - [ ] 🎥 
-Power Up Your AI API Management with WSO2 AI Gateway](https://www.youtube.com/watch?v=hlcf1fCk9Io) - *Video* - 16 min
+[Power Up Your AI API Management with WSO2 AI Gateway](https://www.youtube.com/watch?v=hlcf1fCk9Io) - *Video* - 16 min
 - [ ] 🎥 [What You Can Do with the AI Gateway | #WSO2ConAsia2025](https://www.youtube.com/watch?v=LVZHCSNrF10) - *Video* - 30 min
 - [ ] 🎥 [WSO2 AI Gateway: Prompt Management & Semantic Caching](https://www.youtube.com/watch?v=iExLof4aOs0) - *Video* - 8 min
 - [ ] 🎥 [WSO AI Guardrails: PII Masing, Prompt Injection & Safety](
@@ -114,16 +115,17 @@ Power Up Your AI API Management with WSO2 AI Gateway](https://www.youtube.com/wa
 - [ ] 🎓 [Integration Platform - Ballerina](https://training.wso2.com/plus/catalog/learning-paths/4) - *Docs* - self paced course
 - [ ] 🎓 [WSO2 Integration Fundamentals](https://training.wso2.com/plus/catalog/courses/133) - *Docs* - self paced course
 - [ ] 🎓 [WSO2 Integrator Developer Advanced](https://training.wso2.com/plus/catalog/courses/134) - *Docs* - self paced course
-
-
+> Micro Integrator
 - [ ] 📄 [MI Key Concepts](https://mi.docs.wso2.com/en/latest/get-started/key-concepts/) - *Docs* - ~10 min
 - [ ] 📄 [WSO2 Integrator Architecture](https://wso2.com/integrator/) - *Docs* - ~10 min
 - [ ] 📄 [Build Your First AI Integration](https://mi.docs.wso2.com/en/latest/get-started/build-first-ai-integration/) - *Docs* - ~10 min
+> Devant
 - [ ] 📄 [What Is Devant?](https://wso2.com/devant/docs/what-is-devant/) - *Docs* - ~10 min
 - [ ] 📄 [Devant Concepts](https://wso2.com/devant/docs/devant-concepts/resource-hierarchy/) - *Docs* - ~10 min
 - [ ] 📄 [Devant GenAI Applications](https://wso2.com/devant/#GenAI-applications) - *Docs* - ~10 min
 - [ ] 📄 [Devant AI Agent Framework](https://wso2.com/devant/#AI-agent-framework) - *Docs* - ~10 min
 - [ ] 📄 [Devant AI Assisted Development](https://wso2.com/devant/#AI-assisted-development) - *Docs* - ~10 min
+>Ballerina
 - [ ] 📄 [Direct LLM Invocation with Ballerina Model Providers](https://bi.docs.wso2.com/integration-guides/ai/direct-llm-call/direct-llm-invocation-with-ballerina-model-providers/#direct-llm-invocation-with-ballerina-model-providers) - *Docs* - ~10 min
 - [ ] 📄 [Develop AI Agent](https://bi.docs.wso2.com/get-started/develop-ai-agent/) - *Docs* - ~10 min
 - [ ] 📄 [Integrating Agents With MCP Servers](https://bi.docs.wso2.com/integration-guides/ai/agents/integrating-agents-with-mcp-servers/) - *Docs* - ~10 min
@@ -132,9 +134,11 @@ Power Up Your AI API Management with WSO2 AI Gateway](https://www.youtube.com/wa
 ---
 
 ## Section 24 · WSO2 Identity Platform
+> WSO2 Identity Server
 
 - [ ] 📢 [WSO2 Identity Platform](https://wso2.com/identity-platform) - *Marketing* - ~5 min
 - [ ] 🎥 [Securing AI Agents with Unique Identities | Ayesha Dissanayaka (WSO2) on MCP & IAM](https://www.youtube.com/watch?v=beEqa8_fNUQ)
+- [ ] 🎥 [Secure Your AI Agents and MCP Servers — New in WSO2 Identity Server 7.2](https://www.youtube.com/watch?v=MiIE4zwmMQM)
 - [ ] 📝 [Why Azure AD B2C's Retirement Is a Test of Your Identity Architecture](https://wso2.com/library/blogs/azure-ad-b2c-retirement-identity-architecture/) - *blog* - ~5 min
 - [ ] 📝 [The Path to European Digital Resilience](https://wso2.com/library/blogs/european-digital-resilience-open-source/) - *blog* - ~5 min
 - [ ] 📝 [Why AI Agents Need Their Own Identity: Lessons from 2025 and Resolutions for 2026](https://wso2.com/library/blogs/why-ai-agents-need-their-own-identity-lessons-from-2025-and-resolutions-for-2026/) - *blog* - ~x min
@@ -146,23 +150,27 @@ Power Up Your AI API Management with WSO2 AI Gateway](https://www.youtube.com/wa
 - [ ] 📄 [AI Agent Identity Management](https://is.docs.wso2.com/en/latest/get-started/about-this-release/#ai-agent-identity-management) - *Docs* - ~10 min
 - [ ] 📄 [End-To-End Authorization Support For MCP Servers and Clients](https://is.docs.wso2.com/en/latest/get-started/about-this-release/#end-to-end-authorization-support-for-mcp-servers-and-clients) - *Docs* - ~10 min
 - [ ] 📄 [MCP Authorization](https://is.docs.wso2.com/en/latest/guides/agentic-ai/mcp/) - *Docs* - ~10 min
+- [ ] 📄 [Subscribe to AI Features](https://is.docs.wso2.com/en/next/get-started/subscribe-to-ai-features/) - *Docs* - ~2 min
+- [ ] 🏫 [AI Subscription Portal](https://ai-subscriptions.wso2.com/sign-in) - *External* - ~1 min
+>Asgardeo
 - [ ] 📄 [Asgardeo MCP Authorization](https://wso2.com/asgardeo/docs/guides/agentic-ai/mcp/) - *Docs* - ~10 min
 - [ ] 📄 [Asgardeo IAM Requirements in the Agentic AI Era](https://wso2.com/asgardeo/docs/guides/agentic-ai/ai-agents/) - *Docs* - ~10 min
-- [ ] 🎥 [Secure Your AI Agents and MCP Servers — New in WSO2 Identity Server 7.2](https://www.youtube.com/watch?v=MiIE4zwmMQM)
+
  
 
 ---
 
 ## Section 25 · WSO2 Engineering Platform
-
+> Open Choreo
 - [ ] 📢 [WSO2 Engineering Platform](https://wso2.com/engineering-platform) - *Marketing* - ~5 min
 - [ ] 📄 [Open Choreo Project](https://github.com/openchoreo/openchoreo) - *Docs* - ~10 min
 - [ ] 📄 [Openchoreo.dev](https://openchoreo.dev) - *Docs* - ~10 min
+> Choreo
 - [ ] 📄 [Choreo Platform Engineering](https://wso2.com/choreo/platform-engineering/) - *Docs* - ~10 min
 - [ ] 📄 [Choreo GenAI](https://wso2.com/choreo/usecases/unleash-the-power-of-generative-ai-with-choreo/) - *Docs* - ~10 min
 ---
 
-## Section 40 · Competitive Intelligence
+## Section 30 · Competitive Intelligence
 > Understanding the landscape WSO2 operates in.
 
 
@@ -172,7 +180,7 @@ Power Up Your AI API Management with WSO2 AI Gateway](https://www.youtube.com/wa
 
 ---
 
-## Section 50 · External Training
+## Section 40 · External Training
 > Conferences, external courses, and third-party certifications.
 <!-- Add items here as they are attended or enrolled -->
 
@@ -183,12 +191,13 @@ Power Up Your AI API Management with WSO2 AI Gateway](https://www.youtube.com/wa
 
 ---
 
-## Section 60 · Ad-hoc
+## Section 50 · Ad-hoc
 > Items added over time — articles, announcements, discoveries.
 <!-- Agent appends new items here when you say "Add this to my list" -->
 
 - [ ] 📝 [The 4 Lines Every claude MD Needs](https://levelup.gitconnected.com/the-4-lines-every-claude-md-needs-2717a46866f6)
 - [ ] 🎥 [Andrej Karpathy: From Vibe Coding to Agentic Engineering](https://www.youtube.com/watch?v=96jN2OCOfLs)
+- [ ] 🏫 [AI Dev Sandbox (For High Risk Experiments)](https://github.com/BechtelCanDoIt/AI-Dev-Sandbox)
 
 ---
 *Tracked by wso2-ai-training-agent · Last agent action: initialized*
