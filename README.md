@@ -19,6 +19,8 @@ A self-directed learning companion for WSO2 employees working through an AI/agen
 ### First Time Setup
 ```
 claude .
+/model and pick Haiku
+/effort medium
 init
 ``` 
 
