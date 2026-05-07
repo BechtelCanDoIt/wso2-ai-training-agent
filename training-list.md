@@ -2,11 +2,6 @@
 <!-- Agent: wso2-ai-training-agent-v1 | Source of truth for all progress tracking -->
 A curated list of public WSO2 AI/Agentic resources.
 
-**Employee:** <!-- Your name -->  
-**Role:** <!-- Your role -->  
-**Started:** <!-- YYYY-MM-DD -->  
-**Last Updated:** <!-- YYYY-MM-DD -->
-
 <!-- 
 Copy/Past starters
 - [ ] 📝 []() - *blog* - ~5 min
