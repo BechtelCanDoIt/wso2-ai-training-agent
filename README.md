@@ -14,16 +14,23 @@ A self-directed learning companion for WSO2 employees working through an AI/agen
 
 ---
 
-## How to Use It
+## How to Use It With Claude Code
 
-Load the agent definition (`wso2-ai-traning_agent.md`) and your personal `training-list.md` into your AI assistant of choice. Then use natural language triggers:
+### First Time Setup
+`claude .`
+`init` 
+
+### Normal Use
+`claude .`
+
+Then use natural language triggers:
 
 | You Say | Agent Does |
 |---|---|
-| `Next?` | Returns the next uncompleted item with title, type, link, and estimated time |
+| `Next` | Returns the next uncompleted item with title, type, link, and estimated time |
 | `Done` / `Finished` | Marks the current item complete, offers the next |
 | `How am I doing?` | Returns a progress table by section |
-| `sections?` | Lists all sections with icons and types |
+| `Sections` | Lists all sections with icons and types |
 | `Add this to my list` | Prompts for title, URL, type, section — then appends it |
 
 ---
