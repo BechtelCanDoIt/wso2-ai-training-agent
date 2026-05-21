@@ -35,7 +35,7 @@ Copy/Past starters
 ## Section 10  · AI/Agentic Foundations
 > Core concepts every WSO2 CS team member should know before going deeper.
 
-- [ ] 📝 [Why Does AI Have to Be Held to a Higher Bar Than Humans (and Why It Matters)?](https://wso2.com/library/blogs/why-does-ai-have-to-be-held-to-a-higher-bar-than-humans/) - *blog* - ~5 min
+- [R] 📝 [Why Does AI Have to Be Held to a Higher Bar Than Humans (and Why It Matters)?](https://wso2.com/library/blogs/why-does-ai-have-to-be-held-to-a-higher-bar-than-humans/) - *blog* - ~5 min
 - [ ] 📝 [Vertical AI: Why Industry-Specific AI Matters](https://wso2.com/library/blogs/vertical-ai-why-industry-specific-ai-matters/) - *blog* - ~5 min
 - [ ] 📝 [Becoming a top 1% Claude Code user: the complete playbook no one else is sharing](https://medium.com/towards-artificial-intelligence/becoming-a-top-1-claude-code-user-the-complete-playbook-no-one-else-is-sharing-96057be1468e) - *blog* - ~16 min
 
