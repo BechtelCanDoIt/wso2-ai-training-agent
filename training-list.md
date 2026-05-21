@@ -22,13 +22,13 @@ Copy/Past starters
 
 | Section | Completed | Total | % Done |
 |---|---|---|---|
-| Foundations | 0 | 0 | 0% |
-| WSO2 Platform | 0 | 0 | 0% |
-| AI & Integration | 0 | 0 | 0% |
-| Competitive Intelligence | 0 | 0 | 0% |
-| External Training | 0 | 0 | 0% |
-| Ad-hoc | 0 | 0 | 0% |
-| **Overall** | **0** | **0** | **0%** |
+| Foundations (S10) | 0 | 3 | 0% |
+| WSO2 Platform (S20) | 0 | 16 | 0% |
+| AI & Integration (S21–25) | 0 | 60 | 0% |
+| Competitive Intelligence (S30) | 0 | 3 | 0% |
+| External Training (S40) | 0 | 4 | 0% |
+| Ad-hoc (S50) | 0 | 3 | 0% |
+| **Overall** | **0** | **89** | **0%** |
 
 ---
 
