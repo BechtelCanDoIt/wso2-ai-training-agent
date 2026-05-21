@@ -22,13 +22,13 @@ Copy/Past starters
 
 | Section | Completed | Total | % Done |
 |---|---|---|---|
-| Foundations (S10) | 0 | 3 | 0% |
+| Foundations (S10) | 2 | 3 | 67% |
 | WSO2 Platform (S20) | 0 | 16 | 0% |
 | AI & Integration (S21–25) | 0 | 60 | 0% |
 | Competitive Intelligence (S30) | 0 | 3 | 0% |
 | External Training (S40) | 0 | 4 | 0% |
 | Ad-hoc (S50) | 0 | 3 | 0% |
-| **Overall** | **0** | **89** | **0%** |
+| **Overall** | **2** | **89** | **2%** |
 
 ---
 
@@ -36,7 +36,7 @@ Copy/Past starters
 > Core concepts every WSO2 CS team member should know before going deeper.
 
 - [x] 📝 [Why Does AI Have to Be Held to a Higher Bar Than Humans (and Why It Matters)?](https://wso2.com/library/blogs/why-does-ai-have-to-be-held-to-a-higher-bar-than-humans/) - *blog* - ~5 min
-- [R] 📝 [Vertical AI: Why Industry-Specific AI Matters](https://wso2.com/library/blogs/vertical-ai-why-industry-specific-ai-matters/) - *blog* - ~5 min
+- [x] 📝 [Vertical AI: Why Industry-Specific AI Matters](https://wso2.com/library/blogs/vertical-ai-why-industry-specific-ai-matters/) - *blog* - ~5 min
 - [ ] 📝 [Becoming a top 1% Claude Code user: the complete playbook no one else is sharing](https://medium.com/towards-artificial-intelligence/becoming-a-top-1-claude-code-user-the-complete-playbook-no-one-else-is-sharing-96057be1468e) - *blog* - ~16 min
 
 
