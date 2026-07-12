@@ -38,6 +38,7 @@ Copy/Past starters
 - [ ] 📝 [Why Does AI Have to Be Held to a Higher Bar Than Humans (and Why It Matters)?](https://wso2.com/library/blogs/why-does-ai-have-to-be-held-to-a-higher-bar-than-humans/) - *blog* - ~5 min
 - [ ] 📝 [Vertical AI: Why Industry-Specific AI Matters](https://wso2.com/library/blogs/vertical-ai-why-industry-specific-ai-matters/) - *blog* - ~5 min
 - [ ] 📝 [Becoming a top 1% Claude Code user: the complete playbook no one else is sharing](https://medium.com/towards-artificial-intelligence/becoming-a-top-1-claude-code-user-the-complete-playbook-no-one-else-is-sharing-96057be1468e) - *blog* - ~16 min
+- [ ] 🌐 [Trusted AI Governance](https://github.com/wso2/reference-architecture/blob/master/trusted-ai-governance.md) - *article* - ~5 min
 
 
 ## Section 20 · WSO2 AI/Agentic Foundations
