@@ -50,7 +50,7 @@ Copy/Past starters
 - [ ] 📝 [How a Global Entertainment Giant Built a Multi-Agent AI Assistant for Employee Support](https://wso2.com/library/blogs/how-a-global-entertainment-giant-built-multi-agent-ai-assistant/) - *Case Study* - ~ 5 min
 - [ ] 📝 [The Agent is Inside the Perimeter: A Case for Enterprise-Wide AI Agent Governance](https://wso2.com/library/blogs/enterprise-wide-ai-agent-governance/) - *Blog Post* - ~5 min
 - [ ] 📝 [How We Gave Life to an AI Agent with the Unitree Go2 Robot](https://wso2.com/library/blogs/how-we-gave-life-to-an-ai-agent-with-unitree-go2-robot/) - *blog* - ~5 min
-
+- [ ] 📝 [WSO2 Agentic Enterprise Fabric](https://wso2.com/library/blogs/wso2-agentic-enterprise-fabric/) - *blog* - ~10 min
 
 
 
